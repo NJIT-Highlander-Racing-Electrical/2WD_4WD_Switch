@@ -2,8 +2,9 @@
 
 ## Switch Design Goals
 
-* Two outputs (5V out)
-* Each 5V line latches when its respective Engaged/Disengaged 9V output to the front PTU is pressed
-* Sends this data to dashboard, which can forward over CAN-Bus to DAQ system if necessary
-
+* Have 2 12V rated transistors on the 2WD/4WD engagement switch
+* One turns on when the switch is pressed to the 4WD engagement state
+* One turns on when the switch is pressed to the 4WD disengagement state
+* Read both of these on the dashboard Arduino side and light up dashboard accordingly
+  
 * (MAYBE) capacitor on switch to make it so you just need to tap switch instead of holding
