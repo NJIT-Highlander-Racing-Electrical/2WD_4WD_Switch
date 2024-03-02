@@ -26,3 +26,7 @@
 * We can solder directly to the switch pins, no connectors needed like last year!
 * See schematic in this repository for wiring diagram
 
+* +12V ON AVIATION PIN 1
+* GND ON AVIATION PIN 2
+* SIGNALS ON 3 and 4
+
