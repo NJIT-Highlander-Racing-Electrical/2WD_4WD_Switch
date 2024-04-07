@@ -31,9 +31,9 @@
   * GND on PIN 2
   * SIGNALS on PIN 3 & PIN 4
  
-* Wires from switch to difF:
+* Wires from Switch to Diff:
 
- * Aviation 1: Dark Blue
- * Aviation 2: Baby Blue
- * Aviation 3: Brown/White
+ * Aviation 1: Dark Blue on Diff (Yellow on connecting wire)
+ * Aviation 2: Baby Blue (Red on connecting wire)
+ * Aviation 3: Brown/White (Black on connecting wire)
 
