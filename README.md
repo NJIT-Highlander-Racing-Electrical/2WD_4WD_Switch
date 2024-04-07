@@ -30,4 +30,10 @@
   * +12V on PIN 1
   * GND on PIN 2
   * SIGNALS on PIN 3 & PIN 4
+ 
+* Wires from switch to difF:
+
+ * Aviation 1: Dark Blue
+ * Aviation 2: Baby Blue
+ * Aviation 3: Brown/White
 
