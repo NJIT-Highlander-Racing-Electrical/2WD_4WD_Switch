@@ -30,7 +30,10 @@
   * +12V on PIN 1
   * GND on PIN 2
   * SIGNALS on PIN 3 & PIN 4
- 
+
+
+* When 2WD is pressed, aviation plug PIN 4 goes HIGH
+* When 4WD is pressed, aviation plug PIN 3 goes HIGH
 * Wires from Switch to Diff:
 
  * Aviation 1: Dark Blue on Diff (Yellow on connecting wire)
