@@ -32,12 +32,12 @@
   * SIGNALS on PIN 3 & PIN 4
 
 When 4WD is pressed:
-White wire (Green at DAS): 12V
-Black wire (Orange at DAS): 0V
+* White wire (Green at DAS): 12V
+* Black wire (Orange at DAS): 0V
 
 When 2WD is pressed:
-White wire (Green at DAS): Initially goes to 0V then goes to 12V when complete
-Black wire (Orange at DAS): 12V
+* White wire (Green at DAS): Initially goes to 0V then goes to 12V when complete
+* Black wire (Orange at DAS): 12V
 
 
 * Wires from Switch to Diff:
